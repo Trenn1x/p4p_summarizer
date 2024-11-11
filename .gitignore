@@ -1,0 +1,5 @@
+__pycache__/
+genai_project_env/
+*.pyc
+p4p_summarizer_env/
+
