@@ -1,0 +1,72 @@
+[
+    {
+        "word": "\u00bfC\u00f3mo est\u00e1s?",
+        "translation": "How are you?",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:14.807382",
+        "interval": 30
+    },
+    {
+        "word": "Por favor",
+        "translation": "Please",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:10.865921",
+        "interval": 30
+    },
+    {
+        "word": "Estoy bien",
+        "translation": "I am fine",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:11.505927",
+        "interval": 30
+    },
+    {
+        "word": "Buenas noches",
+        "translation": "Good night",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:13.458424",
+        "interval": 30
+    },
+    {
+        "word": "No",
+        "translation": "No",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:15.451108",
+        "interval": 30
+    },
+    {
+        "word": "Buenos d\u00edas",
+        "translation": "Good morning",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:12.818483",
+        "interval": 30
+    },
+    {
+        "word": "Gracias",
+        "translation": "Thank you",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:09.548956",
+        "interval": 30
+    },
+    {
+        "word": "Hola",
+        "translation": "Hello",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:14.199875",
+        "interval": 30
+    },
+    {
+        "word": "Adi\u00f3s",
+        "translation": "Goodbye",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:10.258261",
+        "interval": 30
+    },
+    {
+        "word": "S\u00ed",
+        "translation": "Yes",
+        "confidence": 5,
+        "last_shown": "2025-01-26T09:53:08.944523",
+        "interval": 30
+    }
+]
